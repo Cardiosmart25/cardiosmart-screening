@@ -111,10 +111,5 @@ Please follow the existing coding style and document any new public functions.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for details.
-
----
 
 *Built with ❤️ for early detection of cardiovascular risks in runners.*  
